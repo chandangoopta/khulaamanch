@@ -23,7 +23,7 @@ This platform connects the following:
 
     Administrator: Our administrative team will take needy actions and related police administration, politician, government with the cases to make sure right decision is taken, victim gets the justice and convicted is punished as per law.
 
-TEAM MEMBERS
+TEAM MEMBERS:
 ===========
 
 Chandan Prasad Gupta
