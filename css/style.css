@@ -1,0 +1,140 @@
+*{
+	font-family: 'Ubuntu';
+}
+
+.header{
+	width: 100%;
+	background: #cc0000;
+	color:white;
+}
+
+.title{
+	font-size: 16pt;
+	line-height: 60px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+	font-size: 14pt;
+	display: inline-block;
+	padding: 0px 0px 20px 0px;
+	text-align: center;
+}
+
+a:hover {
+	border-bottom: 3px solid white;
+	color: white;
+}
+
+.user-info{
+	padding-top: 15px;
+	font-size: 14pt;
+	margin-right: 20px;
+	text-align: right;
+}
+
+.navigation{
+	margin-right: 100px;
+}
+.menu{
+	margin-top: -5px;
+	margin-right: 0px;
+}
+
+.main-heading {
+	font-size: 16pt;
+	line-height: 50px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.case{
+	height: 380px;
+	border: 3px solid #f2f2f2;
+	margin: 4%;
+	overflow: hidden;
+	background-color: #f2f2f2;
+}
+
+.case:hover{
+	background-color: white;
+	transition: background-color 1s;
+}
+
+.main-case{
+	margin-top: 120px;
+	height: 400px;
+	border: 3px solid #f2f2f2;
+	overflow: hidden;
+}
+
+.panels{
+	text-align: center;
+	background: #cc0000;
+	min-height: 50px;
+	color: white;
+	font-size: 14pt;
+	padding-top: 8px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.sec-content{
+	width: 100%;
+}
+
+.sec-content iframe{
+	width: 100%;
+	border: 0px;
+	padding-top: 20px;
+	min-height: 300px;
+}
+
+.comments{
+	min-height: 400px;
+}
+
+.image-holder{
+	height:80%;
+	width: 100%;
+}
+
+.case-title{
+	color:#cc0000;
+	//width: 100%;
+	padding: 10px;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: left;
+}
+
+.image-holder img{
+	height: 300px;
+	padding-left: 0px;
+	margin-left: -30px;
+}
+
+.large-img{
+	width: 100%;
+}
+
+.comments{
+	background-color: #f2f2f2;
+
+}
+.comment{
+	padding: 40px;
+	border-bottom: 1px solid gray;
+}
+.teacher{
+	color:green;
+}
+
+.student{
+	color: blue;
+}
+
+ul{list-style-type: none;}
+.left{float: left;}
+.right{float: right;}
