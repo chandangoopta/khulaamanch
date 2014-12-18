@@ -5,13 +5,13 @@ KhulaaManch (a Nepali word which means an open platform) provides a platform for
 
 This platform provides the following:
 
-    1. List of open cases (mainly highly debated, discussed, famous) 
-
+    1. List of open cases (mainly highly debated, discussed, famous)
+    
     2. Separate discussion board for each cases
+    
+    3. Facts of the case and current status
 
-   3. Facts of the case and current status
-
-   4. List of related laws (national and international)
+    4. List of related laws (national and international)
 
     5. Related resources
 
